@@ -1,0 +1,46 @@
+*{
+    margin: 00;
+}
+
+.icono{
+    color: aqua;
+} 
+
+.form{
+    background-color: rgb(255, 240, 221);
+    margin: 40px;
+    width: 450px;
+    height: 450px;
+    border-radius: 15px;
+    border: solid black 1.5px;
+
+}
+
+.contenedorLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 237, 71);
+    height: 100vh;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px;
+    margin-bottom: 55px;
+}
+
+.inputBlock{
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    width: 100%;
+    height: 30px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 5px;
+}
